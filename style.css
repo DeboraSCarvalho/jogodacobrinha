@@ -1,0 +1,28 @@
+body{
+    
+    
+        height: 95vh;
+        width: 95vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #6E7582;
+        font-family: 'Nunito-Regular';
+        font-size: 40px;
+        text-align: justify;
+        color: #E6E6E6;
+       
+    
+     
+      
+    
+}
+
+
+
+@font-face {
+    src: url(Nunito-Regular.ttf);
+    font-family: 'Nunito-Regular';    
+    font-weight: normal;
+} 
